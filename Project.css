@@ -1,0 +1,58 @@
+td{
+  width: 150px;
+  height: 300px;
+  }
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+table, tr, td{
+  border: 5px solid white;
+}
+
+h1{
+  font-family: "FUCXED CAPS";
+  text-align: center;
+  font-size: 50px;
+}
+
+#one{
+  background-color: rgb(56, 96, 170);
+}
+#two{
+  background-color: rgb(117, 208, 241);
+}
+#three{
+  background-color: rgb(247, 238, 106);
+}
+#four{
+  background-color: rgb(255, 193, 30);
+}
+#five{
+  background-color: rgb(220, 79, 0);
+}
+
+.text{
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 24px;
+  margin-bottom: auto;
+  font-size: 1.3em;
+}
+
+p{
+  text-align: center;
+  font-family: "Crimson Text"
+}
+
+.container{
+  background-color: rgb(242, 242, 242);
+  padding: 30px;
+}
+
+#life{
+  color: rgb(20, 170, 55)
+}
